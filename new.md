@@ -1,7 +1,7 @@
 datasciencecoursera
 ===================
  
-## This is the headres
+## This is the headers
 
 Here is some regular text. 
  * bullet 1
